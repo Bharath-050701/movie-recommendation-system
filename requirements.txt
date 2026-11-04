@@ -1,3 +1,7 @@
+
 Flask
 pandas
 scikit-learn
+requests
+python-dotenv
+gunicorn
